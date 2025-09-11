@@ -1,4 +1,4 @@
-# 🌍 Ubunye AI Ecosystems
+# 🌍 Ubunye AI Ecosystems (UaiE)
 
 ### Mission Statement  
 **Ubunye AI Ecosystems** is an open-source initiative focused on building **affordable, scalable AI tools** for real-world applications, especially in **low resource-constrained environments**.  
@@ -12,6 +12,6 @@
 ### How to Get Involved  
 1. Follow our GitHub organization: [Ubunye AI Ecosystems](https://github.com/organizations/ubunye-ai-ecosystems)  
 2. Explore our ongoing projects.  
-3. Contribute code, ideas, or feedback—every role is valuable.  
+3. Contribute code, problems, stories, ideas, or feedback—every role is valuable.  
 
 Together, we can create technology that truly changes lives. 🚀
