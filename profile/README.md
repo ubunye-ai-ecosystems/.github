@@ -25,7 +25,7 @@ Ubunye AI Ecosystems welcomes a variety of contributors to drive our mission for
 
 ## Contribute as Someone with a Problem
 - Highlight real-world challenges, especially in low resource-constrained environments, that need AI solutions.
-- Post detailed problem statements on our GitHub issues page to inspire development efforts on  our [Organization discussion forum]([https://github.com/Ubunye-AI-Ecosystems](https://github.com/ubunye-ai-ecosystems/uaie-discussion-forum)
+- Post detailed problem statements on our GitHub issues page to inspire development efforts on  our [Organization discussion forum](https://github.com/ubunye-ai-ecosystems/uaie-discussion-forum)
 
 ## Contribute as a Thinker with Solutions
 - Propose innovative approaches or strategies to address identified problems.
@@ -33,7 +33,7 @@ Ubunye AI Ecosystems welcomes a variety of contributors to drive our mission for
 
 ## Contribute as a Creative or Graphic Designer
 - Design logos, icons, or visual assets to enhance our brand and project presentations.
-- Share your designs via GitHub pull requests or [discussion]([[https://github.com/Ubunye-AI-Ecosystems](https://github.com/ubunye-ai-ecosystems/uaie-discussion-forum](https://github.com/orgs/ubunye-ai-ecosystems/discussions)), ensuring they align with our mission.
+- Share your designs via GitHub pull requests or [discussion]([[https://github.com/Ubunye-AI-Ecosystems](https://github.com/orgs/ubunye-ai-ecosystems/discussions), ensuring they align with our mission.
 
 ## Contribute as a Blogger
 - Write engaging blog posts about our projects, mission, or community impact to raise awareness.
