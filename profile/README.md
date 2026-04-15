@@ -1,4 +1,3 @@
-
 # Ubunye AI Ecosystems
 
 > *Ubunye* (uu-BOON-yeh) — Zulu word meaning **oneness** or **unity**.
@@ -12,6 +11,7 @@ The thesis is unity: one convention, one workflow, one CLI. Tools that work the 
 ## Projects
 
 ### 🔧 [Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine)
+
 **Config-driven, Spark-native ETL/ML framework.** Plugin architecture for readers, writers, transforms, and ML models. Same code runs locally, on Databricks, on Kubernetes, on AWS.
 
 ```bash
@@ -23,6 +23,7 @@ pip install ubunye-engine
 - 📝 [Technical memoir](https://tmashininisekgoto.vercel.app/blog/ubunye-engine-ai-ecosystem)
 
 ### 🌀 [TFiltersPy](https://github.com/ubunye-ai-ecosystems/tfilterspy)
+
 **Bayesian filtering library with distributed compute support.** Kalman filters, particle filters, and nonlinear filters. Dask integration for large-scale parallel filtering.
 
 ```bash
@@ -45,6 +46,20 @@ Each project here is independent but shares the philosophy: **finish what you sh
 
 ---
 
+## Community
+
+We have a Discord for everyone — engineers, data scientists, anyone curious. No GitHub account required.
+
+💬 **[Join the Discord](https://discord.gg/msPdcfFv)**
+
+In the Discord:
+- **#introductions** — say hi, tell us what brought you
+- **#problems** — post real problems you're trying to solve
+- **#projects** — what's shipping this week
+- **#random** — chat
+
+---
+
 ## How to contribute
 
 The most useful contribution right now is **using the projects and reporting what breaks.**
@@ -53,22 +68,25 @@ The most useful contribution right now is **using the projects and reporting wha
 Pick a project. Look at open issues. Open a PR.
 
 ### Real problems
-Open a discussion in the relevant repo describing what you're trying to do and what's blocking you. Real use cases shape the roadmap more than feature requests.
+Open a discussion in the relevant repo or post in the Discord describing what you're trying to do and what's blocking you. Real use cases shape the roadmap more than feature requests.
 
 ### Documentation
 Worked examples, tutorials, and gap-filling docs are always needed. Open an issue or PR.
 
 ### Design
-Logos, diagrams, visual explainers. Reach out via discussions before significant work so we can align.
+Logos, diagrams, visual explainers. Reach out via Discord or discussions before significant work so we can align.
 
 ---
 
 ## Connect
 
-- 💬 [Organization discussions](https://github.com/orgs/ubunye-ai-ecosystems/discussions)
+- 💬 [Discord](https://discord.gg/msPdcfFv) — community chat
+- 🗣️ [GitHub Discussions](https://github.com/orgs/ubunye-ai-ecosystems/discussions) — longer threads
 - 🐛 Issues live in each project's repo
 - 🌐 Maintainer: [Thabang Mashinini-Sekgoto](https://tmashininisekgoto.vercel.app)
 
 ---
 
 *Built in South Africa. Open to the world.*
+```
+🤝
