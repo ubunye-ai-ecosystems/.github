@@ -1,44 +1,74 @@
-# 🌍 Ubunye AI Ecosystems (UaiE)
 
-### Mission Statement  
-**Ubunye AI Ecosystems** is an open-source initiative focused on building **affordable, scalable AI tools** for real-world applications, especially in **low resource-constrained environments**.  
+# Ubunye AI Ecosystems
 
-### Why This Matters  
-- 💡 **Accessibility**: Making cutting-edge AI available to communities that are often left behind.  
-- ⚡ **Scalability**: Designing solutions that grow with the needs of people and organizations.  
-- 🌍 **Impact**: Prioritizing real-world challenges over hype—solving problems that touch everyday lives.  
-- 🤝 **Collaboration**: Building together in the open, where anyone curious, passionate, or skilled can contribute.  
+> *Ubunye* (uu-BOON-yeh) — Zulu word meaning **oneness** or **unity**.
 
-### How to Get Involved  
-1. Follow our GitHub organization: [Ubunye AI Ecosystems](https://github.com/organizations/ubunye-ai-ecosystems)  
-2. Explore our ongoing projects.  
-3. Contribute code, problems, stories, ideas, or feedback—every role is valuable.
+Open-source AI infrastructure built for the realities of resource-constrained environments. Africa first, then everywhere with similar constraints.
 
-# How to Contribute to Ubunye AI Ecosystems
+The thesis is unity: one convention, one workflow, one CLI. Tools that work the same way whether you're running on a laptop in Johannesburg or distributed compute in production.
 
-Ubunye AI Ecosystems welcomes a variety of contributors to drive our mission forward. Whether you're a coder, someone with a problem to solve, a thinker with solutions, a creative or graphic designer, or a blogger, your skills are essential. Here's how you can get involved:
+---
 
-## Contribute as a Coder
-- Develop and enhance AI tools by working on projects listed on our [GitHub organization](https://github.com/Ubunye-AI-Ecosystems).
-- Submit pull requests with code improvements, bug fixes, or new features.
-- Ensure your code follows our standards and includes clear documentation.
+## Projects
 
-## Contribute as Someone with a Problem
-- Highlight real-world challenges, especially in low resource-constrained environments, that need AI solutions.
-- Post detailed problem statements on our GitHub issues page to inspire development efforts on  our [Organization discussion forum](https://github.com/ubunye-ai-ecosystems/uaie-discussion-forum)
+### 🔧 [Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine)
+**Config-driven, Spark-native ETL/ML framework.** Plugin architecture for readers, writers, transforms, and ML models. Same code runs locally, on Databricks, on Kubernetes, on AWS.
 
-## Contribute as a Thinker with Solutions
-- Propose innovative approaches or strategies to address identified problems.
-- Start a discussion thread on GitHub to collaborate and refine your solutions with the community.
+```bash
+pip install ubunye-engine
+```
 
-## Contribute as a Creative or Graphic Designer
-- Design logos, icons, or visual assets to enhance our brand and project presentations.
-- Share your designs via GitHub pull requests or [discussion](https://github.com/orgs/ubunye-ai-ecosystems/discussions), ensuring they align with our mission.
+- 261 tests · CI/CD across Python 3.9–3.11 · Hexagonal architecture
+- 📖 [Documentation](https://ubunye-ai-ecosystems.github.io/ubunye_engine/)
+- 📝 [Technical memoir](https://tmashininisekgoto.vercel.app/blog/ubunye-engine-ai-ecosystem)
 
-## Contribute as a Blogger
-- Write engaging blog posts about our projects, mission, or community impact to raise awareness.
-- Submit your articles as markdown files or links through GitHub discussions to amplify our reach.
+### 🌀 [TFiltersPy](https://github.com/ubunye-ai-ecosystems/tfilterspy)
+**Bayesian filtering library with distributed compute support.** Kalman filters, particle filters, and nonlinear filters. Dask integration for large-scale parallel filtering.
 
-Every contribution helps us build technology that transforms lives. Join us today!
+```bash
+pip install tfilterspy
+```
 
-Together, we can create technology that truly changes lives. 🚀
+- Linear, nonlinear, and sampling-based estimators
+- Built for noisy systems and signal processing at scale
+- 📖 [Documentation](https://ubunye-ai-ecosystems.github.io/tfilterspy/)
+
+---
+
+## Why this exists
+
+Most AI infrastructure is built for environments with abundant compute, mature cloud stacks, and well-funded engineering teams. The infrastructure that emerges reflects those assumptions.
+
+We build for the gap: small data teams, constrained budgets, the engineer who is also the platform engineer who is also the on-call. Infrastructure that respects time, cost, and clarity.
+
+Each project here is independent but shares the philosophy: **finish what you ship, document what you built, and keep the surface area small enough for one person to understand.**
+
+---
+
+## How to contribute
+
+The most useful contribution right now is **using the projects and reporting what breaks.**
+
+### Code
+Pick a project. Look at open issues. Open a PR.
+
+### Real problems
+Open a discussion in the relevant repo describing what you're trying to do and what's blocking you. Real use cases shape the roadmap more than feature requests.
+
+### Documentation
+Worked examples, tutorials, and gap-filling docs are always needed. Open an issue or PR.
+
+### Design
+Logos, diagrams, visual explainers. Reach out via discussions before significant work so we can align.
+
+---
+
+## Connect
+
+- 💬 [Organization discussions](https://github.com/orgs/ubunye-ai-ecosystems/discussions)
+- 🐛 Issues live in each project's repo
+- 🌐 Maintainer: [Thabang Mashinini-Sekgoto](https://tmashininisekgoto.vercel.app)
+
+---
+
+*Built in South Africa. Open to the world.*
